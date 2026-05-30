@@ -8,31 +8,31 @@ const programs = [
   {
     time: "08:00",
     title: "Փեսայի տուն",
-    location: "Քաղաք Վանաձոր Երևանյան 145/1",
+    location: "https://yandex.ru/maps/-/CPHhfS3t",
     button: "Քարտեզ",
   },
   {
     time: "11:00",
     title: "Հարսի տուն",
-    location: "Արարատի մարզ Նոր Խարբերդ 21փ. 2տ.",
+    location: "https://yandex.ru/maps/-/CPHhf2YM",
     button: "Քարտեզ",
   },
   {
     time: "15:30",
     title: "Եկեղեցի",
-    location: "Ք. Վանաձոր Իսահակյան 3",
+    location: "https://yandex.ru/maps/-/CPHhjB~D",
     button: "Քարտեզ",
   },
   {
     time: "16:30",
     title: "Փեսայի տուն արարուղություններ",
-    location: "Քաղաք Վանաձոր Երևանյան 145/1",
+    location: "https://yandex.ru/maps/-/CPHhfS3t",
     button: "Քարտեզ",
   },
   {
     time: "18:00",
     title: "Ռեստորան",
-    location: "Royal Բոշյան 5",
+    location: "https://yandex.ru/maps/-/CPHhjKNc",
     button: "Քարտեզ",
   },
 ];
@@ -141,7 +141,7 @@ const ProgramCard: React.FC<ProgramCardProps> = ({
         </p> */}
 
         {/* Button */}
-        <Link href={`https://www.google.com/maps/search/${location}`}
+        <Link href={location}
           className="
             mt-1 px-4 py-1.5
             text-vrayi bg-white

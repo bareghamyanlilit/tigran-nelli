@@ -198,14 +198,14 @@ export function Home() {
         <AttendanceGuests />
 
         <div
-          className="-mt-20 w-full text-vrayi h-[70vh] font-bold content-center" style={{ backgroundImage: "url('/second.png')", backgroundPosition: "bottom", backgroundSize: "cover" }} >
+          className=" w-full text-vrayi h-[70vh] font-bold content-center" style={{ backgroundImage: "url('/second.png')", backgroundPosition: "bottom", backgroundSize: "cover" }} >
           <TimeBox />
 
 
 
           <motion.p
             {...anim}
-            className="FontMassis mt-40 text-vrayi text-2xl tracking-widest mb-20"
+            className="FontMassis pt-40 text-vrayi text-2xl tracking-widest "
           >
             {txt6}
           </motion.p>

@@ -43,7 +43,7 @@ export function TimeBox() {
   return (
     <motion.section
       {...anim}
-      className="mt-50 my-20 FontArmHmk flex flex-col gap-5 text-center  text-vrayi  px-0 "
+      className=" FontArmHmk flex flex-col gap-5 text-center  text-vrayi  px-0 "
     >
       <div className="">
         {timeLeft.finished ? (

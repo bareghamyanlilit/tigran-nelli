@@ -152,7 +152,7 @@ export default function AttendanceGuests() {
   };
 
   return (
-    <div className="mx-auto w-full max-w-3xl p-6 mt-20">
+    <div className="mx-auto w-full max-w-3xl p-6 mt-20 mb-0">
       <motion.h1
         {...anim}
         className="text-2xl font-bold text-vrayi text-center mb-10"
