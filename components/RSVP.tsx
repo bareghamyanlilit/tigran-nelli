@@ -179,7 +179,7 @@ export default function AttendanceGuests() {
       <form onSubmit={handleSubmit} className="space-y-8">
         {/* Full Name */}
         <div>
-          <p className="text-start mb-3 ">խնդրում եքն գրել Ձեր անուն, ազգանունը</p>
+          <p className="text-start mb-3 ">խնդրում ենք գրել Ձեր անուն, ազգանունը</p>
           <motion.input
             {...anim}
             type="text"
