@@ -19,7 +19,7 @@ export const calendar: any = [
 ];
 
 export const vazoxTox1 =
-  "ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ՍԵՐ LOVE ЛЮБОВ ";
+  "ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ՍԵՐ LOVE ЛЮБОВЬ ";
 
 export const txt1Title = "ՍԻՐԵԼԻ’ ՀՅՈՒՐԵՐ";
 
